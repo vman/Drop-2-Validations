@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "505b4674-7c55-41ea-8a74-0fd6f0fb5453",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "505b4674-7c55-41ea-8a74-0fd6f0fb5453",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Drop2Explorer" },
+    "description": { "default": "Drop2Explorer description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "title": "Welcome to the SharePoint Framework!",
+      "description": "Web part to test property pane validations"
+    }
+  }]
+}
